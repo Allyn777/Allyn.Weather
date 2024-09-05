@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/001/940/546/small/atmospheric-white-smoke-fog-effect-from-left-to-right-free-video.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color:#1C1C1C, #808080 ;
+    background-size: 100%;
+    
+
+}
+
+div#weather {
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+.weatherdata {
+    background: linear-gradient(135deg, #1C1C1C,    #808080);
+    margin: 25px; 
+    padding:20px; 
+    border-radius: 20px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+p {
+        font-size: 10px;
+    }
+
+.footer footer {
+    text-align: left;
+    background-color: white;
+    color: black;
+}
+
+.call h1 {
+    color: whitesmoke;
+    font-size: 50px;
+    text-shadow:black 0px -10   px 5px ;
+    cursor: pointer;
+
+
+
+}
